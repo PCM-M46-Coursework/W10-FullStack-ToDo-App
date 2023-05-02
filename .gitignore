@@ -1,0 +1,11 @@
+# - Node Modules
+node_modules
+
+# - Environment Files
+**.env
+
+# - Local Editor Settings
+.vscode
+
+# - Code Bucket
+.bucket
